@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-community
+pydantic
+unstructured
+faiss-cpu
+uvicorn
+gunicorn
+python-dotenv
+autopep8
